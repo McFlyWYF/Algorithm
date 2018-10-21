@@ -1,7 +1,7 @@
 package Singleton;
 
 
-public class Singleton {
+public class Main {
 
     /*
     单例模式，饿汉式，线程安全
