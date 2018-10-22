@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f3c1ea6-dcab-453d-ab7a-dd54d3a29058" name="Default" comment="" />
+    <list default="true" id="8f3c1ea6-dcab-453d-ab7a-dd54d3a29058" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -113,12 +115,6 @@
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Singleton" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -306,7 +302,7 @@
       <option name="presentableId" value="Default" />
       <updated>1540109161476</updated>
       <workItem from="1540109162966" duration="10026000" />
-      <workItem from="1540198198473" duration="9401000" />
+      <workItem from="1540198198473" duration="9933000" />
     </task>
     <task id="LOCAL-00001" summary=":tada:">
       <created>1540112150410</created>
@@ -319,7 +315,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19427000" />
+    <option name="totallyTimeSpent" value="19959000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -331,8 +327,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="237" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="237" width="1616" height="876" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32971507" />
